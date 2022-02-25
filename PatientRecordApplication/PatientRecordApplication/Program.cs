@@ -130,7 +130,7 @@ namespace PatientRecordApplication
                inFile.Close();
           }
           //repeatedly searches a file to produce 
-          //lists of employees who meet a minimum salary requirement
+          //lists of patients with minimum balance
           static void FindPatients()
           {
                const char DELIM = ',';
